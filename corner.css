@@ -199,6 +199,16 @@ nav{
     transform: translateX(0%);
 }
 
+@media screen and (max-width: 468px) {
+.detail {
+   
+}
+
+    .detail h1 {
+        font-size: 1.5em;
+    }
+}
+
 @keyframes navLinkFade {
     from{
         opacity: 0;
