@@ -294,10 +294,11 @@ nav {
 }
 
 .test2 {
-    background-image: url(https://res.cloudinary.com/betty/image/upload/v1595992715/samples/Tourano/man-1868730_1920_wjafgz.jpg);
+    background-image: url(https://res.cloudinary.com/betty/image/upload/v1596553050/samples/Tourano/WhatsApp_Image_2020-08-04_at_3.25.47_PM_zedq8k.jpg);
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
+    
 }
 
 
@@ -551,21 +552,12 @@ nav {
          grid-column: 1/5;
      }
 
-
-/*.container {
-    grid-template-columns: 1fr;
-    height: 160vh;
-}
-
-
-
-*/
     .bottom{
          height: 70vh;
     }
 
     .footers{
-        margin-top: 10%;
+        margin-top: 20%;
         grid-template-rows: 17em;
         grid-template-columns: 1fr 1fr;
         font-size: 0.7em;
