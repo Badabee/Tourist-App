@@ -571,10 +571,19 @@ nav {
 
  }
 
- @media screen and (max-width: 370px) {
+ @media screen and (min-width: 370px) {
     .bottom{
-        height: 50vh;
+        height: 70vh;
    }
+
+   .land .lady {
+    width: 50%;
+ }
+
+   .land #lady2{
+    width: 45%;
+    padding: 5% 5%;
+    }
  }
 
 .nav-active {
