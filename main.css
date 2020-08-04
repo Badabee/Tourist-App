@@ -419,21 +419,21 @@ nav {
 
 .bottom {
     background-color: black;
-    height: 50vh;
+    height: 40vh;
     margin-bottom: 0;
 }
 
 .footers {
     display: grid;
     grid-gap: 2%;
-    padding: 3% 0;
+    padding: 2% 0;
     width: 80vw;
     margin: auto;
     color: blanchedalmond;
     grid-template-columns: repeat(4, 1fr);
     letter-spacing: 2px;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 .footers h3 {
