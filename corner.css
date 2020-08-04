@@ -233,6 +233,16 @@ nav{
         margin-bottom: 2%;
     }
 
+    .bottom{
+        height: 60vh;
+    }
+
+    .footers{
+        grid-template-columns: 1fr 1fr;
+        font-size: 0.7em;
+        grid-gap: 1rem;
+    }
+
 
 }
 
