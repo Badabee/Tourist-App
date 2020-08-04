@@ -552,6 +552,14 @@ nav {
          grid-column: 1/5;
      }
 
+     .blog{
+        height: 1800vh;
+     }
+
+     .blogger{
+         grid-template-columns: 1fr;
+     }
+
     .bottom{
          height: 70vh;
     }
