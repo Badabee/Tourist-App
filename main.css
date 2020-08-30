@@ -83,6 +83,7 @@ nav{
        padding: 2%;
        margin-bottom: 1.6%;
        border: none;
+       outline: none;
 }
 
 .land #lady2{
@@ -388,7 +389,7 @@ nav{
 
 .bottom {
     background-color: black;
-    height: 40vh;
+    height: 60vh;
     margin-bottom: 0;
 }
 
@@ -406,6 +407,7 @@ nav{
 
 .footers h3{
    margin: 4% auto;
+   padding-top: 42%;
 }
 
 .footers p {

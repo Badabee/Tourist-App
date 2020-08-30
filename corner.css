@@ -96,15 +96,26 @@ nav{
     font-size: 2.5em;
 }
 
+
 .details{
     display: grid;
     grid-template-columns: 1.2fr 0.8fr;
+}
+
+#condar{
+    resize: none;
+    width: 95%;
+    height: 98%;
+    font-size: 15px;
+    outline: none;
 }
 
 .item{
     width: 100%;
     padding: 5%;
     margin-bottom: 1.6%;
+    font-size: 15px;
+    outline: none;
 }
 
 #boli {
@@ -114,6 +125,7 @@ nav{
     border: none;
     width: 100%;
     padding: 5%;
+    outline: none;
     margin-bottom: 1.6%;
 }
 
