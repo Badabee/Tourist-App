@@ -531,6 +531,30 @@ nav{
          grid-template: 20em/1fr;
      }
 
+     .bottom{
+        height: 80vh;
+    }
+
+    .footers{
+        grid-template-columns: 1fr 1fr;
+        font-size: 0.7em;
+        grid-gap: 1rem;
+        text-align: left;
+    }
+
+    .footer2 p {
+        text-align: center;
+    }
+
+    .footers{
+        padding-top: 45%;
+    }
+
+    .footers h3{
+        
+        padding-top: 0%;
+     }
+
  }
 
 .nav-active {
